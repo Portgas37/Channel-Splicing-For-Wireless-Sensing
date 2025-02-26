@@ -112,8 +112,5 @@ The project was conducted at the **Telecommunications Circuits Laboratory, EPFL*
 
 ---
 
-## Contact
-
-**Adam Chahed Ouazzani**  
 [Ecole Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch)
 
