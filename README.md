@@ -75,12 +75,6 @@ The project was conducted at the **Telecommunications Circuits Laboratory, EPFL*
 
 ---
 
-## File Structure
-
-Channel-Splicing-For-Wireless-Sensing/ │ ├── Report/ │ └── Bachelor_Project___Report.pdf # Detailed report of the project │ ├── Presentation/ │ └── PrésentationVersionDIm.pdf # Project presentation slides │ ├── Scripts/ │ ├── csiSplicerPhases.m # Splices phases from multiple CSI estimates │ ├── generateChannel.m # Generates Rayleigh or Rician channel models │ ├── generateFreqAxis.m # Generates a frequency axis for FFT operations │ ├── scriptCsiMultiBand.m # Splices CSI from multiple carriers │ ├── scriptCsiMultiBandDoppler.m # CSI splicing with Doppler effect simulation │ ├── scriptCsiSingleBand.m # Single-band CSI processing and CIR estimation │ └── testnufft_chronosFinal.m # Tests Non-Uniform FFT (NUFFT) with Chronos │ └── README.md # Project overview and usage instructions
-
----
-
 ## Installation and Usage
 
 ### Prerequisites
@@ -110,11 +104,6 @@ Channel-Splicing-For-Wireless-Sensing/ │ ├── Report/ │ └── Bache
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
 
 ## Acknowledgments
 - **Prof. Andreas Peter Burg** - Project Supervisor, EPFL
