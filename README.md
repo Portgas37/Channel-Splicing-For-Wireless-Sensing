@@ -9,10 +9,8 @@ This project explores the development and evaluation of channel splicing methods
 - [Features](#features)
 - [Methodology](#methodology)
 - [Algorithms Implemented](#algorithms-implemented)
-- [File Structure](#file-structure)
 - [Installation and Usage](#installation-and-usage)
 - [References](#references)
-- [License](#license)
 
 ---
 
